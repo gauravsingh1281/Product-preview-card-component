@@ -150,3 +150,13 @@ p {
     font-weight: 700;
   }
 }
+
+@media (min-width: 656px) {
+body {
+  background-color: var(--Cream);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+}
