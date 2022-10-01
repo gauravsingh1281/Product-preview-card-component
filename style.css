@@ -29,7 +29,6 @@ body {
   display: none;
 }
 .container {
-  margin-top: 50px;
   width: 594px;
   height: 445px;
   display: flex;
